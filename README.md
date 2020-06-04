@@ -2,6 +2,8 @@
 Just another repository
 Hi humans!
 
-Shacks here i like Node.js and building programes
-using visual studio at moment just getting started 
-Entity Framework_6 Code First using MVC-5
+Patrick here i like coding and building programes
+using visual studio code,
+
+Welcome to my Lab jump on board..!
+
